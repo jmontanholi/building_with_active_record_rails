@@ -1,76 +1,64 @@
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
-# Project Name
+# Mini-Reddit - Active Record
 
-> One paragraph statement about the project.
+> On this project we had to build a mini-reddit using RoR's Active Records. We have a user that can post and then comment on their own and other users' posts.
 
-![screenshot](./app_screenshot.png)
-
-Additional description about the project and its features.
 
 ## Built With
 
-- Major languages
-- Frameworks
-- Technologies used
-
-## Live Demo
-
-[Live Demo Link](https://livedemo.com)
+- Ruby 2.7.2 (or later versions)
+- Rails 6.1.3 (or later versions)
 
 
 ## Getting Started
 
-**This is an example of how you may give instructions on setting up your project locally.**
-**Modify this file to match your project, remove sections that don't apply. For example: delete the testing section if the currect project doesn't require testing.**
-
-
-To get a local copy up and running follow these simple example steps.
-
 ### Prerequisites
+
+- A github account
+- Ruby and Ruby on Rails installed on your computer
+- A terminal with your github account logged in
+
 
 ### Setup
 
-### Install
+- Use your github account and your terminal to clone this repository to your computer:
 
-### Usage
+`git clone https://github.com/jmontanholi/building_with_active_record_rails.git`
 
-### Run tests
+- Go to the cloned directory:
 
-### Deployment
+`cd building_with_active_record_rails`
+
+- Run `rails c` to test the the Models. Our models are: 
+- User
+- Post
+- Comment
+
+- For further knowledge on these topics, check [RoR's Documentation](https://guides.rubyonrails.org/getting_started.html).
 
 
 
 ## Authors
 
-👤 **Author1**
+👤 **João Vítor Montanholi Nunes** 
 
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/linkedinhandle)
+- GitHub: [jmontanholi](https://github.com/jmontanholi) 
+- Twitter: [MontanholiNunes](https://twitter.com/MontanholiNunes) 
+- LinkedIn: [Joao vitor montanholi](https://www.linkedin.com/in/joaovitormontanholi/) 
 
-👤 **Author2**
+👤 **Fernando R P Marques**
 
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/linkedinhandle)
+- GitHub: [@fernandorpm](https://github.com/fernandorpm)
+- Twitter: [@rpm_fernando](https://twitter.com/rpm_fernando)
+- LinkedIn: [Fernando R P Marques](https://linkedin.com/fernandorpm)
 
 ## 🤝 Contributing
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](issues/).
+Feel free to check the [issues page](../../issues/).
 
 ## Show your support
 
 Give a ⭐️ if you like this project!
-
-## Acknowledgments
-
-- Hat tip to anyone whose code was used
-- Inspiration
-- etc
-
-## 📝 License
-
-This project is [MIT](lic.url) licensed.
